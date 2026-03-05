@@ -1,2 +1,3 @@
-# mindnumbingnumberguessinggame.py
-a mind-numbing boring guessing game about number with three levels easy medium and hard try it and see if you like pls star if you like and make changes in a separate file and put that if you dont like game.
+# My First Site!
+this is my first site it includes my hobbies  some books i like to read and my favourite game!
+I hope you enjoy this short introduction to me!
